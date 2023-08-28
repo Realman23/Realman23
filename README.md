@@ -1,5 +1,5 @@
 # 👋 It`s me - Realman
-🔭 I’m currently working on SmartCards project<br>🌱 I’m currently learning TypeScript<br>⚡ In love with @Andryshka16
+🔭 I’m currently working on SmartCards project<br>🌱 I’m currently learning TypeScript<br>⚡ In love with dark chocolate
 
 
 ## 🌐 Socials:
